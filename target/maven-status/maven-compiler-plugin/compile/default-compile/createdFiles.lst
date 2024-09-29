@@ -1,0 +1,8 @@
+Models/Vehicle.class
+Application/ParkingLotApplication.class
+Models/Ticket.class
+Constants/VehicleType.class
+Models/ParkingLot.class
+Models/Slot.class
+Utils/ParkingLotUtils.class
+Models/Floor.class
